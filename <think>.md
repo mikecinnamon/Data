@@ -1,7 +1,7 @@
 <think>
 First, I need to understand the total cost of the dinner. However, since the exact amount isn't provided, I'll assume the total cost is \( X \) dollars.
 
-Next, I'll determine how the cost is shared in both scenarios. Initially, only six friends are paying, so each of them would pay \( \frac{X}{6} \) dollars. If all ten friends were to pay, each would contribute \( \frac{X}{10} \) dollars.
+Next, I'll determine how the cost is shared in both scenarios. Initially, only six friends are paying, so each of them would pay \( \frac{X}{6} \) dollars. If all ten friends were to pay, each would contribute $\frac{X}{10}$ dollars.
 
 To find out how much cheaper it would be for each of the six friends, I'll subtract the amount each would pay when everyone contributes from the amount they originally paid. That is, \( \frac{X}{6} - \frac{X}{10} \).
 
